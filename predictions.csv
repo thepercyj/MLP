@@ -1,0 +1,9 @@
+Data Instance ID,True Label,Predicted Label,Result,Count
+Cereal Export Value,0,0,True Positive,145
+Cereal Export Value,0,1,False Negative,2
+Cereal Export Value,1,0,False Positive,28
+Cereal Export Value,1,1,True Negative,36
+Tobacco Export Value,0,0,True Positive,142
+Tobacco Export Value,0,1,False Negative,3
+Tobacco Export Value,1,0,False Positive,35
+Tobacco Export Value,1,1,True Negative,31
